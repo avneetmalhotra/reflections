@@ -14,6 +14,7 @@ organized? How would branches help?
 	solution 4
 
 How do the diagrams help you visualize the branch structure?
+	solution 5
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
